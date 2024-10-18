@@ -4,7 +4,7 @@
 <div align="center">
 <h1>This is a hobby organization</h1>
 
-Join to our [Discord Server](https://discord.gg/BFuvTWVbuj)  
+Join to our 
 </div>
 
 ## Location
@@ -558,3 +558,5 @@ Join to our [Discord Server](https://discord.gg/BFuvTWVbuj)
   ]
 }
 ```
+
+[🕋](https://discord.gg/BFuvTWVbuj)  
